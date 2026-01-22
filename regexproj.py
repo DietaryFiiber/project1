@@ -30,6 +30,6 @@ plt.xlabel('Years in Article')
 plt.title('Times Years Appeared in Wikipedia Article for Schroedinger')
 
 
-plt.show()
 plt.savefig('histogram.png', dpi=200)
+plt.show()
 
