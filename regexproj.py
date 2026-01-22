@@ -31,5 +31,5 @@ plt.title('Times Years Appeared in Wikipedia Article for Schroedinger')
 
 
 plt.show()
-plt.savefig('bruh.png', dpi=200)
+plt.savefig('histogram.png', dpi=200)
 
